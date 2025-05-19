@@ -1,3 +1,7 @@
+# Architecture
+![Alt text](https://github.com/ansel9618/Reat-Time-Streaming-Pipeline-AWS-MSK/blob/main/Architecture.png)
+
+
 # Step 1 : Create RDS Database
           a. SQL Server Standard Edition
           b. In the security group allow TCP traffic from all sources on port 1433
